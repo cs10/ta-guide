@@ -72,10 +72,39 @@ The professor usually leads bonding, so make sure they're free for it!
 After getting staff availability, we've usually assigned sections by hand. If you have enough staff to, try to pair new TAs with veteran TAs for lab sections. You may also try using the script `scripts/AIAssigner.py` and adapt it to this purpose.
 
 ### Scheduling OH Rooms
+If possible, try to schedule some rooms for office hours before the semester starts. Rooms are in high-demand, and it's often hard to get a good room once the semester begins. 
 
+TAs/classes are only allowed to book office hours in the Alcoves in Soda (283, 341A/B, 411, 611, 651). We are also allowed to hold office hours in 200 SD, though we aren't allowed to officially book the room. To hold office hours in 200SD, just make sure no other classes are using the room (UCBUGG and CNM share the room with us usually) and add it to our caldendar.
 
 ### Configuring Alonzo
+#### Updating Assignments
+In (`bcourses-config.js`)[https://github.com/cs10/Alonzo/blob/master/scripts/cs10/bcourses-config.js], update the following variables (comments on the file explains what these variables are):
+* `cs10.courseID`
+* `cs10.labsID`
+* `cs10.START_DATE`
+* `cs10.TA_EMAILS` (not entirely sure if this is needed, but it's a good idea to fill it out just in case)
+* `cs10.LAB_ASSISTANT_MANAGER`
+* Assignment IDs
+* Help Links
 
+Be sure to also double check the other variables to make sure they're accurate.
+
+#### Updating Canvas API Key (if necessary)
+You may need to update the Canvas API Key on (Heroku)[https://dashboard.heroku.com/apps/alonzo] (this can be found at Settings → HUBOT CANVAS KEY). To set a new Canvas API Key, go to bCourses → Account → Settings → Create a new Access Token (Purpose: Alonzo and set an expiration date).
+
+#### Update Roles on Slack
+There are two roles on Slack, tas and readers (roles are used when you @tas or @readers). 
+
+To assign someone to the tas/readers role (example shown for tas), message Alonzo with the following:
+`<username> has tas role`
+
+Similarly, to remove someone from the tas/readers role (example shown for tas), message Alonzo with the following:
+`<username> does not have tas role`
+
+To check who has a certain role, you can message Alonzo with the following:
+`who has tas role`
+
+*Important*: You will need to be a collaborator on Heroku to update roles on Slack. An existing collaborator can make you a collaborator to the Alonzo project if needed. 
 
 ## First-Week Prep
 ### Teaching Your First Section
@@ -84,6 +113,8 @@ After getting staff availability, we've usually assigned sections by hand. If yo
 ## Academic Intern Management
 
 ## Key Contacts
+
+## Alonzo
 
 ## Publishing Assignments
 
