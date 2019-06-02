@@ -40,6 +40,9 @@ Edit the Academic Intern syllabus with information about:
 * Contact information
 * Extra opportunities
 
+#### Units
+During the normal semester, 1-unit Academic Interns are required to work 3 hours/week and 2-unit Academic Interns are required to work 6 hours/week. In the summer, those values are doubled.
+
 #### Contract
 Once you've updated the Academic Intern syllabus, email all eligible Lab Assistant candidates with a contract form, asking for the following information: 
 * How many units they'd like
