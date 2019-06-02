@@ -116,7 +116,9 @@ Similarly, to remove someone from the tas/readers role (example shown for tas), 
 To check who has a certain role, you can message Alonzo with the following:
 `who has tas role`
 
-*Important*: You will need to be a collaborator on Heroku to update roles on Slack. An existing collaborator can make you a collaborator to the Alonzo project if needed. 
+Slack does not show usernames for users by default. Usually, you can figure out a user's username just by @ing them, but if you can't find it, you can message Alonzo `show users` and Alonzo will list all users and their usernames. 
+
+You will need to be a collaborator on Heroku to update roles on Slack. An existing collaborator can make you a collaborator to the Alonzo project if needed. 
 
 ## First-Week Prep
 ### Teaching Your First Section
