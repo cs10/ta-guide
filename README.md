@@ -1,6 +1,18 @@
 # TA Guide
 This is a guide for all CS10 TAs/Head TAs!
 
+- [TA Guide](#ta-guide)
+  * [Pre-Semester Prep](#pre-semester-prep)
+  * [First-Week Prep](#first-week-prep)
+  * [Academic Intern Management](#academic-intern-management)
+  * [Key Contacts](#key-contacts)
+  * [Alonzo](#alonzo)
+  * [Publishing Assignments](#publishing-assignments)
+  * [End-of-Semester](#end-of-semester)
+  * [Reimbursements](#reimbursements)
+  * [Extension Policy](#extension-policy)
+
+
 ## Pre-Semester Prep
 ### Course Website
 Here are some tasks you'll need to do before starting on the website:
