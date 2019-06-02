@@ -130,12 +130,14 @@ You will need to be a collaborator on Heroku to update roles on Slack. An existi
 
 ## Alonzo
 
-## Publishing Assignments
+## Assignments
+### Publishing Assignments
+### Extension Policy
+
+## Exam Scanning
+
+## Reimbursements
 
 ## End-of-Semester
 ### Grades
 #### EPA
-
-## Reimbursements
-
-## Extension Policy
