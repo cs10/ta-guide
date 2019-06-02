@@ -78,7 +78,7 @@ TAs/classes are only allowed to book office hours in the Alcoves in Soda (283, 3
 
 ### Configuring Alonzo
 #### Updating Assignments
-In (`bcourses-config.js`)[https://github.com/cs10/Alonzo/blob/master/scripts/cs10/bcourses-config.js], update the following variables (comments on the file explains what these variables are):
+In [`bcourses-config.js`](https://github.com/cs10/Alonzo/blob/master/scripts/cs10/bcourses-config.js), update the following variables (comments on the file explains what these variables are):
 * `cs10.courseID`
 * `cs10.labsID`
 * `cs10.START_DATE`
@@ -90,7 +90,7 @@ In (`bcourses-config.js`)[https://github.com/cs10/Alonzo/blob/master/scripts/cs1
 Be sure to also double check the other variables to make sure they're accurate.
 
 #### Updating Canvas API Key (if necessary)
-You may need to update the Canvas API Key on (Heroku)[https://dashboard.heroku.com/apps/alonzo] (this can be found at Settings → HUBOT CANVAS KEY). To set a new Canvas API Key, go to bCourses → Account → Settings → Create a new Access Token (Purpose: Alonzo and set an expiration date).
+You may need to update the Canvas API Key on [Heroku](https://dashboard.heroku.com/apps/alonzo) (this can be found at Settings → HUBOT CANVAS KEY). To set a new Canvas API Key, go to bCourses → Account → Settings → Create a new Access Token (Purpose: Alonzo and set an expiration date).
 
 #### Update Roles on Slack
 There are two roles on Slack, tas and readers (roles are used when you @tas or @readers). 
