@@ -50,7 +50,7 @@ Once you've updated the Academic Intern syllabus, email all eligible Lab Assista
 * Some confirmation that they've read the syllabus (in the past, we've included a secret word on the syllabus that they need to fill out)
 * Their ID number/proxy
 
-In the same email, you should also send out the [Academic Intern guide](https://docs.google.com/document/d/1UVxYg62zuM9R06M4tf6U1yFivONPLuSLrPbM9_TeFKA/edit?usp=drive_web&ouid=114692113843414176249) to serve as a guide for Academic Interning.
+In the same email, you should also send out the [Academic Intern guide](https://docs.google.com/document/d/1LNuCs9S1jfghuKfYeFGz8mDVZmfoucWSMl-k7jRPlJ4/edit?usp=sharing) to serve as a guide for Academic Interning.
 
 #### Piazza/Checkoff Room
 Once interested students have filled out the Academic Intern contract, you may add them to an Academic Intern Piazza and to the LA Checkoff Room on Slack. You can only do the latter if you have Admin access on Slack, so be sure to ask a previous Head TA to give it to you if you don't have it!
