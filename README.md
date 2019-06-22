@@ -99,7 +99,9 @@ In [`bcourses-config.js`](https://github.com/cs10/Alonzo/blob/master/scripts/cs1
 * Assignment IDs
 * Help Links
 
-Be sure to also double check the other variables to make sure they're accurate.
+Be sure to also double check the other variables to make sure they're accurate. 
+
+In order to push your changes, you will need to [push to Heroku](https://devcenter.heroku.com/articles/git#deploying-code).
 
 #### Updating Canvas API Key (if necessary)
 You may need to update the Canvas API Key on [Heroku](https://dashboard.heroku.com/apps/alonzo) (this can be found at Settings → HUBOT CANVAS KEY). To set a new Canvas API Key, go to bCourses → Account → Settings → Create a new Access Token (Purpose: Alonzo and set an expiration date).
