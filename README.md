@@ -31,7 +31,7 @@ To give new TAs cs10 emails, go to the CS10 Google Domain and under emails, add 
 ### Keycard Access
 Students get keycard access to the lab automatically, but we need to ask explicitly for keycard access for TAs, Readers, and Academic Interns. 
 
-In order to get keycard access, email [Kevin Mullally](mailto:kevinm@berkeley.edu) with names, SIDs, and proxies (the first set of digits on the back of student IDs) for everyone needing keycard access. **This should be done at least a week before the semester starts, since UCPD only processes requests every Thursday.**
+In order to get keycard access, email [inst](mailto:inst@eecs.berkeley.edu) with names, SIDs, and proxies (the first set of digits on the back of student IDs) for everyone needing keycard access. **This should be done at least a week before the semester starts, since UCPD only processes requests every Thursday.**
 
 ### Pre-Semester Meeting
 Be sure to schedule a pre-semester meeting with the staff. This is usually done a couple days before the semester starts. Here are some things usually covered:
@@ -158,7 +158,9 @@ Leave blank any part you don't know, including purchase codes.
 1. If you have more people than there are slots, write See attached and include a list of the additional names.
 2. If you choose Open invite, include the email sent out proving it was open invite and include the class roster if it was sent to the entire class.
 3. Put yourself as host and sign.
-4. For the business purpose, include relevant information about why this event is necessary. It may also help to include your supervisor like "per <professor>".
+4. For the business purpose, include relevant information about why this event is necessary. It may also help to include your supervisor (the professor). 
+
+In some cases, you may get a follow up email asking for a chartstring. You do not need to provide this information; if they ask for it please CC [Gabe](mailto:gabe@eecs.berkeley.edu) (or whoever is in charge of Financial Services for EECS) and they will provide you with the necessary information. 
 
 ## End-of-Semester
 ### Grades
