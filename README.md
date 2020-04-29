@@ -139,6 +139,26 @@ You will need to be a collaborator on Heroku to update roles on Slack. An existi
 ## Exam Scanning
 
 ## Reimbursements
+Before you submit, please read the [ERSO guide](http://www.erso.berkeley.edu/erso/content/before-you-submit). In addition, for catering reimbursements (i.e. grading parties) greater than $75, you will need an itemized invoice or receipt of the costs in addition to proof of purchase.
+
+ERSO sets the following limits.
+
+Snacks  $5.00/person
+Lunches $8.00/person
+Dinners $12.00/person
+The process for submitting a reimbursement request for grading parties is as follows.
+
+1. Visit www.erso.berkeley.edu.
+2. Login to the intranet and choose Entertainment as the service.
+3. Follow the listed instructions, download [the PDF](http://www.erso.berkeley.edu/erso/sites/default/files/uploads/entertainmentform.v4.pdf), and fill it out. Instead of selecting the professor as the PI/Center/Dept option, you'll want to select "EECS".
+4. Then you will be asked to add your attachments such as the PDF, itemized receipt, proof-of-purchase, attendees, etc. For requests over $75, you must submit an itemized receipt!
+
+Notes on filling out the PDF:
+Leave blank any part you don't know, including purchase codes.
+1. If you have more people than there are slots, write See attached and include a list of the additional names.
+2. If you choose Open invite, include the email sent out proving it was open invite and include the class roster if it was sent to the entire class.
+3. Put yourself as host and sign.
+4. For the business purpose, include relevant information about why this event is necessary. It may also help to include your supervisor like "per <professor>".
 
 ## End-of-Semester
 ### Grades
